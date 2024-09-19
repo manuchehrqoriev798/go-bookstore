@@ -1,5 +1,4 @@
-module github.com/LeHaGiaBao/go-bookstore
-
+module github.com/manuchehrqoriev798/go-bookstore
 go 1.19
 
 require (
